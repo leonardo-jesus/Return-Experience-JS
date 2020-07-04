@@ -38,7 +38,7 @@ This project was developed with the following technology:
 
 ## 💻 Project
 
-The ***Return Experience***,  is a Project that **Return the user's experience** in a interval of numbers. With the purpose of training ***S***, using ***Switch***. Made with **Javascript**.
+The ***Return Experience***,  is a Project that **Return the user's experience** in a interval of numbers. With the purpose of training ***Script***, using ***Switch***. Made with **Javascript**.
 
 ## 🤔 How to contribute
 
